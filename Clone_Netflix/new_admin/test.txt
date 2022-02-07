@@ -1,0 +1,5 @@
+- thêm, sửa, xóa movie
+- thêm, sửa, xóa list
+- đăng nhập admin bằng JWT
+- Context API
+- upload File lên Firebase
